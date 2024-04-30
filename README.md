@@ -1,7 +1,7 @@
 # cs2server-toolkit
 > test environment:
-> ubuntu 22.04
-> lastest LinuxGSM
+ubuntu 22.04
+lastest LinuxGSM
 
 ## Requirements
 jq (JSON processor), Install with:
